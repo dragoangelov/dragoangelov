@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dragoangelov
 - 👀 I’m interested in all things IT
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Fundamentals @ SoftUni
 - 📫 You can reach me here or at <a href="https://www.linkedin.com/in/drago-angelov">LinkedIn</a>
 
 <!---
