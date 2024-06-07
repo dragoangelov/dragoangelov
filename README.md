@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drago 
 - 👀 I’m interested in all things IT
-- 🌱 I’m currently learning Java (MySQL & Spring Data) @ SoftUni
+- 🌱 I’m currently learning Java (Spring Web) @ SoftUni
 - 📫 You can reach me here or at <a href="https://www.linkedin.com/in/drago-angelov">LinkedIn</a>
 
 <h2>⚡GitHub Stats</h2>
